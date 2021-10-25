@@ -1,0 +1,23 @@
+{
+  "name": "blockhain-node",
+  "version": "1.0.0",
+  "description": "Blockchain built with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muffle10/blockhain-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muffle10/blockhain-node/issues"
+  },
+  "homepage": "https://github.com/Muffle10/blockhain-node#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
